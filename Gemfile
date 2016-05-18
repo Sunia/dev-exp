@@ -4,8 +4,8 @@ ruby '2.0.0'
 
 # DOne for changes
 gem 'sinatra'
+gem 'httparty'
 
-# Exp
 group :test, :development do
   gem 'rspec'
   gem 'rack-test'

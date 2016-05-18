@@ -5,6 +5,5 @@ require 'bundler/setup'
 require 'sinatra'
 
 get '/' do
-  output = "Hello world!. Now with test-suite! </br>"
-  output
+  output = "Hello world! Version 3. Now with test-suite! </br>"
 end
