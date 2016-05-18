@@ -4,7 +4,6 @@ ruby '2.0.0'
 
 # DOne for changes
 gem 'sinatra'
-gem 'httparty'
 
 group :test, :development do
   gem 'rspec'
